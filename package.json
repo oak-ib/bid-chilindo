@@ -1,0 +1,18 @@
+{
+  "name": "ok-bid",
+  "version": "1.0.0",
+  "description": "bid chilindo 1 bath No real",
+  "main": "ok-bid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ok-bid.js"
+  },
+  "author": "Oak Isarapong",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.0.0",
+    "simple-node-logger": "^18.12.23"
+  }
+}
