@@ -36,6 +36,7 @@ false คือเปิด browser
 # Log
 log ข้อมูลการ bid เปิดดูได้ที่ /logs/(date)/test.log
 ตัวอย่าง
+```bash
 2019-12-22 00:43:30 INFO  name^ไฟติดเสา|item-price^51|bid-price^21|action^first exit 
 2019-12-22 00:44:12 INFO  name^ไฟติดเสา|item-price^1|bid-price^21|action^bid 
 2019-12-22 08:40:26 INFO  name^เตาหมูทะ|item-price^481|bid-price^101|action^first exit 
@@ -45,6 +46,7 @@ log ข้อมูลการ bid เปิดดูได้ที่ /logs/(
 2019-12-22 16:10:32 INFO  name^เตาหมูทะ|item-price^81|bid-price^101|action^bid 
 2019-12-22 16:10:32 INFO  name^เครื่องดูดฝุ่นในรถยนต์|item-price^51|bid-price^51|action^bid 
 2019-12-22 16:10:33 INFO  name^อบขนมปัง|item-price^61|bid-price^101|action^bid 
+```
 
 ## Bug
 บางครั้งระบบมันไม่กด bid ให้ใครรู้ต้องทำยังไง issues มาให้หน่อยนะครับ
