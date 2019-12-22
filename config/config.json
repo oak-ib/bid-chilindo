@@ -1,50 +1,14 @@
 {
   "item_2": {
-    "name": "เตาหมูทะ",
-    "url": "https://www.chilindo.com/th/product/50-491V1",
-    "price": 101,
+    "name": "SMARTHOME เตาแก๊สสแตนเลส 3 หัว",
+    "url": "https://www.chilindo.com/th/product/08-253",
+    "price": 11,
     "loop_time": 2.8
   },
   "item_3": {
-    "name": "อบขนมปัง",
-    "url": "https://www.chilindo.com/th/product/08-341",
-    "price": 101,
-    "loop_time": 2.6
-  },
-  "item_6": {
-    "name": "ถังเก็บความเย็น",
-    "url": "https://www.chilindo.com/th/product/50-781",
-    "price": 2,
-    "loop_time": 4
-  },
-  "item_7": {
-    "name": "เครื่องเป่าลมไฟฟ้า",
-    "url": "https://www.chilindo.com/th/product/43-628",
-    "price": 51,
-    "loop_time": 3
-  },
-  "item_8": {
-    "name": "เครื่องดูดฝุ่นในรถยนต์",
-    "url": "https://www.chilindo.com/th/product/41-137",
-    "price": 51,
-    "loop_time": 3.5
-  },
-  "item_12": {
-    "name": "SKG หม้อหุงข้าว",
-    "url": "https://www.chilindo.com/th/product/51-154V1",
-    "price": 51,
-    "loop_time": 2
-  },
-  "item_13": {
-    "name": "สายยางพร้อมหัวฉีด",
-    "url": "https://www.chilindo.com/th/product/50-050",
+    "name": "แก้วผสมเครื่องดื่มแบบปั่นขนาดพกพา",
+    "url": "https://www.chilindo.com/th/product/41-550",
     "price": 21,
-    "loop_time": 1.5
-  },
-  "item_15": {
-    "name": "ผ้าคลุมรถยนต์",
-    "url": "https://www.chilindo.com/th/product/16-114",
-    "price": 2,
-    "loop_time": 1
+    "loop_time": 2.6
   }
 }
