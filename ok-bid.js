@@ -48,8 +48,8 @@ forIn(item, function(config) {
       await page.waitForSelector("#Signin1_loginsignup_info #mutedlogin");
       await page.click("#Signin1_loginsignup_info #mutedlogin");
       await page.waitForSelector('input[name="ctl00$Signin1$txtEmail"]');
-      await page.type('input[name="ctl00$Signin1$txtEmail"]',process.env["USERNAME"]);
-      await page.type('input[name="ctl00$Signin1$txtPassword"]',process.env["PASSWORD"]);
+      await page.type('input[name="ctl00$Signin1$txtEmail"]',process.env["USERNAME_BID"]);
+      await page.type('input[name="ctl00$Signin1$txtPassword"]',process.env["PASSWORD_BID"]);
       await page.click("input#Signin1_btnSignIn");
       await delay(2000);
       await page.waitForSelector("input#ContentPlaceHolder1_txtBidNew");

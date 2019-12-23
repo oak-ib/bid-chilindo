@@ -10,7 +10,7 @@ npm start
 
 ## Config
 แก้ไขไฟล์ .env
-1.เพิ่ม USERNAME & PASSWORD ที่ไว้เข้าใช้งาน https://www.chilindo.com/
+1.เพิ่ม USERNAME_BID & PASSWORD_BID ที่ไว้เข้าใช้งาน https://www.chilindo.com/
 
 2.HEADLESS = {"headless": false}
 แกไข HEADLESS ให้โปรแกรมเปิด browser ขึ้นมาโชว์การทำงานตรง false
